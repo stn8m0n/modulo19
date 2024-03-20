@@ -1,0 +1,12 @@
+.form{
+    margin: 40px;
+}
+
+.form__conotrol{margin-bottom: 16px;
+    font-family: sans-serif;
+
+}
+
+.form__submit{
+    cursor: pointer;
+}

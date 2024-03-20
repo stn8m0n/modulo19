@@ -10,3 +10,7 @@
 .form__submit{
     cursor: pointer;
 }
+
+.form__submit--sending{
+    cursor: wait;
+}
